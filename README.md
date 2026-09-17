@@ -91,6 +91,6 @@ The complete analysis is available in the PDF presentation included
 in this repository.
 
 ## Author
-Pallavi Shukla
+
 Pallavi Shukla
 MBA Finance | Aspiring Financial Analyst / FP&A Professional
